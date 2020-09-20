@@ -1,0 +1,1953 @@
+{
+    "nodes": [
+      {
+        "id": "Earth",
+        "Close-Approach (CA) Date": "2021-Sep-10 12:03 ±    01:22",
+        "CA Distance Nominal (LD | au)": "14.11 | 0.03626",
+        "CA Distance Minimum (LD | au)": "13.91 | 0.03574",
+        "V relative": 5.1,
+        "V infinity": "5.09",
+        "H (mag)": 26.6,
+        "Estimated Diameter": "13 m -   28 m"
+      },
+
+      {
+        "id": "(2020 KR2)",
+        "Close-Approach (CA) Date": "2021-Sep-10 12:03 ±    01:22",
+        "CA Distance Nominal (LD | au)": "14.11 | 0.03626",
+        "CA Distance Minimum (LD | au)": "13.91 | 0.03574",
+        "V relative": 5.1,
+        "V infinity": "5.09",
+        "H (mag)": 26.6,
+        "Estimated Diameter": "13 m -   28 m"
+      },
+      {
+        "id": "(2010 RJ53)",
+        "Close-Approach (CA) Date": "2021-Sep-09 14:11 ± 4_14:45",
+        "CA Distance Nominal (LD | au)": "9.35 | 0.02403",
+        "CA Distance Minimum (LD | au)": "7.84 | 0.02013",
+        "V relative": 19.26,
+        "V infinity": "19.26",
+        "H (mag)": 24,
+        "Estimated Diameter": "42 m -   94 m"
+      },
+      
+      {
+        "id": "(2015 SW6)",
+        "Close-Approach (CA) Date": "2021-Sep-05 21:56 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "15.86 | 0.04075",
+        "CA Distance Minimum (LD | au)": "15.86 | 0.04075",
+        "V relative": 9.91,
+        "V infinity": "9.91",
+        "H (mag)": 24.5,
+        "Estimated Diameter": "33 m -   75 m"
+      },
+      {
+        "id": "(2017 RK15)",
+        "Close-Approach (CA) Date": "2021-Aug-29 19:26 ±    11:06",
+        "CA Distance Nominal (LD | au)": "14.04 | 0.03608",
+        "CA Distance Minimum (LD | au)": "6.44 | 0.01654",
+        "V relative": 11.58,
+        "V infinity": "11.57",
+        "H (mag)": 25.7,
+        "Estimated Diameter": "19 m -   43 m"
+      },
+      {
+        "id": "(2011 UC292)",
+        "Close-Approach (CA) Date": "2021-Aug-24 21:04 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "8.95 | 0.02300",
+        "CA Distance Minimum (LD | au)": "8.95 | 0.02300",
+        "V relative": 8.54,
+        "V infinity": "8.53",
+        "H (mag)": 22.8,
+        "Estimated Diameter": "73 m -  160 m"
+      },
+      {
+        "id": "(2020 BC16)",
+        "Close-Approach (CA) Date": "2021-Aug-24 01:15 ±    02:21",
+        "CA Distance Nominal (LD | au)": "14.90 | 0.03828",
+        "CA Distance Minimum (LD | au)": "14.56 | 0.03742",
+        "V relative": 6.74,
+        "V infinity": "6.73",
+        "H (mag)": 25.3,
+        "Estimated Diameter": "23 m -   52 m"
+      },
+      {
+        "id": "(2019 UD4)",
+        "Close-Approach (CA) Date": "2021-Aug-22 03:51 ±    02:23",
+        "CA Distance Nominal (LD | au)": "14.20 | 0.03649",
+        "CA Distance Minimum (LD | au)": "14.15 | 0.03636",
+        "V relative": 5.52,
+        "V infinity": "5.50",
+        "H (mag)": 23.1,
+        "Estimated Diameter": "64 m -  140 m"
+      },
+      {
+        "id": "(2016 AJ193)",
+        "Close-Approach (CA) Date": "2021-Aug-21 15:10 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "8.92 | 0.02291",
+        "CA Distance Minimum (LD | au)": "8.91 | 0.02291",
+        "V relative": 26.17,
+        "V infinity": "26.16",
+        "H (mag)": 18.7,
+        "Estimated Diameter": "480 m -  1.1 km"
+      },
+      {
+        "id": "(2016 BQ)",
+        "Close-Approach (CA) Date": "2021-Aug-14 14:14 ±    04:08",
+        "CA Distance Nominal (LD | au)": "4.36 | 0.01119",
+        "CA Distance Minimum (LD | au)": "4.33 | 0.01112",
+        "V relative": 4.69,
+        "V infinity": "4.64",
+        "H (mag)": 26.8,
+        "Estimated Diameter": "12 m -   26 m"
+      },
+      {
+        "id": "(2012 BA35)",
+        "Close-Approach (CA) Date": "2021-Aug-11 07:57 ±    15:31",
+        "CA Distance Nominal (LD | au)": "6.84 | 0.01757",
+        "CA Distance Minimum (LD | au)": "6.83 | 0.01756",
+        "V relative": 4.24,
+        "V infinity": "4.20",
+        "H (mag)": 23.8,
+        "Estimated Diameter": "46 m -  100 m"
+      },
+      {
+        "id": "(2020 PP1)",
+        "Close-Approach (CA) Date": "2021-Aug-03 23:01 ±    01:19",
+        "CA Distance Nominal (LD | au)": "12.91 | 0.03318",
+        "CA Distance Minimum (LD | au)": "12.89 | 0.03313",
+        "V relative": 3.55,
+        "V infinity": "3.53",
+        "H (mag)": 26.9,
+        "Estimated Diameter": "11 m -   25 m"
+      },
+      {
+        "id": "(2020 PN1)",
+        "Close-Approach (CA) Date": "2021-Aug-03 15:12 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "9.59 | 0.02463",
+        "CA Distance Minimum (LD | au)": "9.59 | 0.02463",
+        "V relative": 4.55,
+        "V infinity": "4.53",
+        "H (mag)": 25.5,
+        "Estimated Diameter": "22 m -   48 m"
+      },
+      {
+        "id": "(2019 YM6)",
+        "Close-Approach (CA) Date": "2021-Jul-31 05:43 ±    01:16",
+        "CA Distance Nominal (LD | au)": "17.97 | 0.04617",
+        "CA Distance Minimum (LD | au)": "17.67 | 0.04540",
+        "V relative": 13.48,
+        "V infinity": "13.47",
+        "H (mag)": 22.2,
+        "Estimated Diameter": "97 m -  220 m"
+      },
+      {
+        "id": "(2020 BW12)",
+        "Close-Approach (CA) Date": "2021-Jul-27 22:36 ±    06:55",
+        "CA Distance Nominal (LD | au)": "16.66 | 0.04280",
+        "CA Distance Minimum (LD | au)": "16.23 | 0.04171",
+        "V relative": 9.79,
+        "V infinity": "9.78",
+        "H (mag)": 26.2,
+        "Estimated Diameter": "15 m -   34 m"
+      },
+      {
+        "id": "(2008 GO20)",
+        "Close-Approach (CA) Date": "2021-Jul-27 13:27 ± 4_10:56",
+        "CA Distance Nominal (LD | au)": "10.18 | 0.02616",
+        "CA Distance Minimum (LD | au)": "6.35 | 0.01633",
+        "V relative": 8.33,
+        "V infinity": "8.31",
+        "H (mag)": 22.3,
+        "Estimated Diameter": "92 m -  210 m"
+      },
+      {
+        "id": "(2014 BP43)",
+        "Close-Approach (CA) Date": "2021-Jul-21 00:12 ± 3_05:00",
+        "CA Distance Nominal (LD | au)": "14.56 | 0.03741",
+        "CA Distance Minimum (LD | au)": "4.26 | 0.01094",
+        "V relative": 8.27,
+        "V infinity": "8.27",
+        "H (mag)": 26.5,
+        "Estimated Diameter": "13 m -   30 m"
+      },
+      {
+        "id": "(2019 NB7)",
+        "Close-Approach (CA) Date": "2021-Jul-17 19:03 ± 4_20:30",
+        "CA Distance Nominal (LD | au)": "15.15 | 0.03893",
+        "CA Distance Minimum (LD | au)": "1.67 | 0.00429",
+        "V relative": 13.76,
+        "V infinity": "13.76",
+        "H (mag)": 27.4,
+        "Estimated Diameter": "8.8 m -   20 m"
+      },
+      {
+        "id": "(2019 AT6)",
+        "Close-Approach (CA) Date": "2021-Jul-13 07:34 ±    04:06",
+        "CA Distance Nominal (LD | au)": "4.22 | 0.01083",
+        "CA Distance Minimum (LD | au)": "3.65 | 0.00938",
+        "V relative": 5.15,
+        "V infinity": "5.10",
+        "H (mag)": 27.6,
+        "Estimated Diameter": "8.0 m -   18 m"
+      },
+      {
+        "id": "(2020 AD1)",
+        "Close-Approach (CA) Date": "2021-Jul-04 06:45 ±    01:17",
+        "CA Distance Nominal (LD | au)": "2.82 | 0.00725",
+        "CA Distance Minimum (LD | au)": "2.63 | 0.00676",
+        "V relative": 4.85,
+        "V infinity": "4.78",
+        "H (mag)": 26.3,
+        "Estimated Diameter": "15 m -   33 m"
+      },
+      {
+        "id": "441987 (2010 NY65)",
+        "Close-Approach (CA) Date": "2021-Jun-25 05:09 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "15.54 | 0.03992",
+        "CA Distance Minimum (LD | au)": "15.54 | 0.03992",
+        "V relative": 13.35,
+        "V infinity": "13.35",
+        "H (mag)": 21.4,
+        "Estimated Diameter": "140 m -  310 m"
+      },
+      {
+        "id": "(2018 LB)",
+        "Close-Approach (CA) Date": "2021-Jun-01 16:56 ±    19:15",
+        "CA Distance Nominal (LD | au)": "2.87 | 0.00738",
+        "CA Distance Minimum (LD | au)": "0.91 | 0.00234",
+        "V relative": 7.69,
+        "V infinity": "7.65",
+        "H (mag)": 26,
+        "Estimated Diameter": "17 m -   38 m"
+      },
+      {
+        "id": "(2013 VO11)",
+        "Close-Approach (CA) Date": "2021-May-25 12:45 ± 7_19:06",
+        "CA Distance Nominal (LD | au)": "3.83 | 0.00983",
+        "CA Distance Minimum (LD | au)": "3.09 | 0.00795",
+        "V relative": 10.12,
+        "V infinity": "10.10",
+        "H (mag)": 28.3,
+        "Estimated Diameter": "5.8 m -   13 m"
+      },
+      {
+        "id": "478784 (2012 UV136)",
+        "Close-Approach (CA) Date": "2021-May-18 20:57 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "15.74 | 0.04045",
+        "CA Distance Minimum (LD | au)": "15.74 | 0.04045",
+        "V relative": 4.97,
+        "V infinity": "4.96",
+        "H (mag)": 25.5,
+        "Estimated Diameter": "21 m -   47 m"
+      },
+      {
+        "id": "(2015 KJ19)",
+        "Close-Approach (CA) Date": "2021-May-14 10:04 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "15.01 | 0.03856",
+        "CA Distance Minimum (LD | au)": "15.01 | 0.03856",
+        "V relative": 23.04,
+        "V infinity": "23.04",
+        "H (mag)": 22.4,
+        "Estimated Diameter": "88 m -  200 m"
+      },
+      {
+        "id": "(2018 JP)",
+        "Close-Approach (CA) Date": "2021-May-05 21:42 ± 1_11:09",
+        "CA Distance Nominal (LD | au)": "10.55 | 0.02711",
+        "CA Distance Minimum (LD | au)": "5.92 | 0.01521",
+        "V relative": 7.82,
+        "V infinity": "7.81",
+        "H (mag)": 27.4,
+        "Estimated Diameter": "8.8 m -   20 m"
+      },
+      {
+        "id": "(2019 VT3)",
+        "Close-Approach (CA) Date": "2021-May-01 04:54 ±    00:57",
+        "CA Distance Nominal (LD | au)": "12.03 | 0.03091",
+        "CA Distance Minimum (LD | au)": "11.51 | 0.02958",
+        "V relative": 5.94,
+        "V infinity": "5.92",
+        "H (mag)": 28.2,
+        "Estimated Diameter": "6.1 m -   14 m"
+      },
+      {
+        "id": "(2019 HF4)",
+        "Close-Approach (CA) Date": "2021-Apr-26 22:24 ± 7_20:11",
+        "CA Distance Nominal (LD | au)": "7.74 | 0.01989",
+        "CA Distance Minimum (LD | au)": "1.22 | 0.00314",
+        "V relative": 6.76,
+        "V infinity": "6.74",
+        "H (mag)": 27.6,
+        "Estimated Diameter": "8.0 m -   18 m"
+      },
+      {
+        "id": "(2015 HA177)",
+        "Close-Approach (CA) Date": "2021-Apr-26 13:05 ± 4_14:59",
+        "CA Distance Nominal (LD | au)": "18.59 | 0.04776",
+        "CA Distance Minimum (LD | au)": "0.83 | 0.00214",
+        "V relative": 8.71,
+        "V infinity": "8.70",
+        "H (mag)": 27.7,
+        "Estimated Diameter": "7.7 m -   17 m"
+      },
+      {
+        "id": "(2016 QE45)",
+        "Close-Approach (CA) Date": "2021-Apr-24 01:48 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "13.20 | 0.03391",
+        "CA Distance Minimum (LD | au)": "13.20 | 0.03391",
+        "V relative": 15.26,
+        "V infinity": "15.25",
+        "H (mag)": 21.7,
+        "Estimated Diameter": "120 m -  270 m"
+      },
+      {
+        "id": "(2019 PS1)",
+        "Close-Approach (CA) Date": "2021-Apr-23 21:00 ± 6_02:03",
+        "CA Distance Nominal (LD | au)": "14.47 | 0.03718",
+        "CA Distance Minimum (LD | au)": "14.03 | 0.03606",
+        "V relative": 9.98,
+        "V infinity": "9.97",
+        "H (mag)": 26.8,
+        "Estimated Diameter": "12 m -   26 m"
+      },
+      {
+        "id": "(2020 HO5)",
+        "Close-Approach (CA) Date": "2021-Apr-22 16:49 ±    00:09",
+        "CA Distance Nominal (LD | au)": "16.48 | 0.04234",
+        "CA Distance Minimum (LD | au)": "16.40 | 0.04213",
+        "V relative": 3.34,
+        "V infinity": "3.32",
+        "H (mag)": 28.4,
+        "Estimated Diameter": "5.4 m -   12 m"
+      },
+      {
+        "id": "(2019 HQ)",
+        "Close-Approach (CA) Date": "2021-Apr-20 07:48 ±    06:24",
+        "CA Distance Nominal (LD | au)": "14.73 | 0.03785",
+        "CA Distance Minimum (LD | au)": "13.52 | 0.03475",
+        "V relative": 8.8,
+        "V infinity": "8.80",
+        "H (mag)": 26.2,
+        "Estimated Diameter": "15 m -   34 m"
+      },
+      {
+        "id": "(2020 HE5)",
+        "Close-Approach (CA) Date": "2021-Apr-17 16:50 ±    00:09",
+        "CA Distance Nominal (LD | au)": "8.48 | 0.02178",
+        "CA Distance Minimum (LD | au)": "8.34 | 0.02143",
+        "V relative": 4.32,
+        "V infinity": "4.29",
+        "H (mag)": 27.7,
+        "Estimated Diameter": "7.8 m -   17 m"
+      },
+      {
+        "id": "(2017 HG4)",
+        "Close-Approach (CA) Date": "2021-Apr-16 17:16 ±    18:03",
+        "CA Distance Nominal (LD | au)": "7.57 | 0.01946",
+        "CA Distance Minimum (LD | au)": "5.99 | 0.01538",
+        "V relative": 4.12,
+        "V infinity": "4.09",
+        "H (mag)": 27.7,
+        "Estimated Diameter": "7.7 m -   17 m"
+      },
+      {
+        "id": "(2014 FO38)",
+        "Close-Approach (CA) Date": "2021-Apr-07 10:46 ±    00:29",
+        "CA Distance Nominal (LD | au)": "16.72 | 0.04296",
+        "CA Distance Minimum (LD | au)": "16.70 | 0.04291",
+        "V relative": 8.34,
+        "V infinity": "8.34",
+        "H (mag)": 26.3,
+        "Estimated Diameter": "15 m -   33 m"
+      },
+      {
+        "id": "(2020 GE1)",
+        "Close-Approach (CA) Date": "2021-Apr-07 03:18 ±    00:10",
+        "CA Distance Nominal (LD | au)": "12.13 | 0.03117",
+        "CA Distance Minimum (LD | au)": "12.10 | 0.03108",
+        "V relative": 4.18,
+        "V infinity": "4.16",
+        "H (mag)": 27.1,
+        "Estimated Diameter": "10 m -   23 m"
+      },
+      {
+        "id": "(2015 MB54)",
+        "Close-Approach (CA) Date": "2021-Apr-06 11:04 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "13.53 | 0.03476",
+        "CA Distance Minimum (LD | au)": "13.53 | 0.03476",
+        "V relative": 3.71,
+        "V infinity": "3.69",
+        "H (mag)": 23.9,
+        "Estimated Diameter": "44 m -   99 m"
+      },
+      {
+        "id": "(2019 GM1)",
+        "Close-Approach (CA) Date": "2021-Mar-31 16:39 ±    00:01",
+        "CA Distance Nominal (LD | au)": "15.02 | 0.03860",
+        "CA Distance Minimum (LD | au)": "15.02 | 0.03859",
+        "V relative": 3.88,
+        "V infinity": "3.86",
+        "H (mag)": 27,
+        "Estimated Diameter": "11 m -   24 m"
+      },
+      {
+        "id": "(2020 GE)",
+        "Close-Approach (CA) Date": "2021-Mar-27 17:30 ±    01:15",
+        "CA Distance Nominal (LD | au)": "12.64 | 0.03248",
+        "CA Distance Minimum (LD | au)": "12.61 | 0.03240",
+        "V relative": 1.55,
+        "V infinity": "1.49",
+        "H (mag)": 28.1,
+        "Estimated Diameter": "6.3 m -   14 m"
+      },
+      {
+        "id": "231937 (2001 FO32)",
+        "Close-Approach (CA) Date": "2021-Mar-21 16:03 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "5.25 | 0.01348",
+        "CA Distance Minimum (LD | au)": "5.24 | 0.01347",
+        "V relative": 34.41,
+        "V infinity": "34.41",
+        "H (mag)": 17.7,
+        "Estimated Diameter": "770 m -  1.7 km"
+      },
+      {
+        "id": "(2020 FM)",
+        "Close-Approach (CA) Date": "2021-Mar-10 22:31 ±    03:53",
+        "CA Distance Nominal (LD | au)": "18.11 | 0.04654",
+        "CA Distance Minimum (LD | au)": "13.61 | 0.03496",
+        "V relative": 13.31,
+        "V infinity": "13.31",
+        "H (mag)": 24,
+        "Estimated Diameter": "42 m -   95 m"
+      },
+      {
+        "id": "535844 (2015 BY310)",
+        "Close-Approach (CA) Date": "2021-Mar-10 09:48 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "14.12 | 0.03629",
+        "CA Distance Minimum (LD | au)": "14.12 | 0.03629",
+        "V relative": 7.32,
+        "V infinity": "7.31",
+        "H (mag)": 21.7,
+        "Estimated Diameter": "120 m -  270 m"
+      },
+      {
+        "id": "(2020 SP)",
+        "Close-Approach (CA) Date": "2021-Mar-03 04:42 ±    02:02",
+        "CA Distance Nominal (LD | au)": "18.29 | 0.04698",
+        "CA Distance Minimum (LD | au)": "18.04 | 0.04635",
+        "V relative": 3.9,
+        "V infinity": "3.88",
+        "H (mag)": 27.2,
+        "Estimated Diameter": "9.9 m -   22 m"
+      },
+      {
+        "id": "(1999 RM45)",
+        "Close-Approach (CA) Date": "2021-Mar-02 19:52 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "7.62 | 0.01959",
+        "CA Distance Minimum (LD | au)": "7.62 | 0.01958",
+        "V relative": 20.04,
+        "V infinity": "20.03",
+        "H (mag)": 19.4,
+        "Estimated Diameter": "350 m -  780 m"
+      },
+      {
+        "id": "(2016 DV1)",
+        "Close-Approach (CA) Date": "2021-Mar-02 18:06 ±    17:16",
+        "CA Distance Nominal (LD | au)": "3.85 | 0.00990",
+        "CA Distance Minimum (LD | au)": "0.42 | 0.00107",
+        "V relative": 18.4,
+        "V infinity": "18.38",
+        "H (mag)": 24.8,
+        "Estimated Diameter": "29 m -   65 m"
+      },
+      {
+        "id": "(2011 EH17)",
+        "Close-Approach (CA) Date": "2021-Mar-02 00:01 ±    16:12",
+        "CA Distance Nominal (LD | au)": "9.53 | 0.02448",
+        "CA Distance Minimum (LD | au)": "2.87 | 0.00738",
+        "V relative": 16.83,
+        "V infinity": "16.82",
+        "H (mag)": 24.6,
+        "Estimated Diameter": "32 m -   71 m"
+      },
+      {
+        "id": "(2011 DW)",
+        "Close-Approach (CA) Date": "2021-Mar-01 17:31 ±    02:51",
+        "CA Distance Nominal (LD | au)": "13.88 | 0.03567",
+        "CA Distance Minimum (LD | au)": "13.20 | 0.03391",
+        "V relative": 13.61,
+        "V infinity": "13.60",
+        "H (mag)": 23,
+        "Estimated Diameter": "67 m -  150 m"
+      },
+      {
+        "id": "(2015 EQ)",
+        "Close-Approach (CA) Date": "2021-Feb-23 15:50 ± 1_04:43",
+        "CA Distance Nominal (LD | au)": "17.91 | 0.04601",
+        "CA Distance Minimum (LD | au)": "15.89 | 0.04083",
+        "V relative": 10.52,
+        "V infinity": "10.52",
+        "H (mag)": 26.1,
+        "Estimated Diameter": "16 m -   36 m"
+      },
+      {
+        "id": "(2020 BV9)",
+        "Close-Approach (CA) Date": "2021-Feb-22 02:44 ±    00:23",
+        "CA Distance Nominal (LD | au)": "14.64 | 0.03762",
+        "CA Distance Minimum (LD | au)": "13.93 | 0.03579",
+        "V relative": 7.55,
+        "V infinity": "7.54",
+        "H (mag)": 26,
+        "Estimated Diameter": "16 m -   37 m"
+      },
+      {
+        "id": "(2020 CX1)",
+        "Close-Approach (CA) Date": "2021-Feb-18 01:29 ±    01:45",
+        "CA Distance Nominal (LD | au)": "4.83 | 0.01242",
+        "CA Distance Minimum (LD | au)": "3.74 | 0.00960",
+        "V relative": 8.27,
+        "V infinity": "8.25",
+        "H (mag)": 24.1,
+        "Estimated Diameter": "41 m -   91 m"
+      },
+      {
+        "id": "(2019 YP5)",
+        "Close-Approach (CA) Date": "2021-Feb-10 17:59 ±    00:02",
+        "CA Distance Nominal (LD | au)": "8.14 | 0.02091",
+        "CA Distance Minimum (LD | au)": "8.11 | 0.02083",
+        "V relative": 13.55,
+        "V infinity": "13.54",
+        "H (mag)": 22.3,
+        "Estimated Diameter": "92 m -  210 m"
+      },
+      {
+        "id": "(2008 DB)",
+        "Close-Approach (CA) Date": "2021-Feb-10 07:32 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "13.07 | 0.03359",
+        "CA Distance Minimum (LD | au)": "13.07 | 0.03359",
+        "V relative": 6.04,
+        "V infinity": "6.03",
+        "H (mag)": 25.8,
+        "Estimated Diameter": "18 m -   41 m"
+      },
+      {
+        "id": "(2018 RB)",
+        "Close-Approach (CA) Date": "2021-Feb-07 13:11 ± 2_17:43",
+        "CA Distance Nominal (LD | au)": "18.27 | 0.04695",
+        "CA Distance Minimum (LD | au)": "16.13 | 0.04145",
+        "V relative": 22.54,
+        "V infinity": "22.54",
+        "H (mag)": 21.8,
+        "Estimated Diameter": "120 m -  260 m"
+      },
+      {
+        "id": "(2018 CH2)",
+        "Close-Approach (CA) Date": "2021-Feb-05 19:10 ± 6_21:14",
+        "CA Distance Nominal (LD | au)": "14.55 | 0.03738",
+        "CA Distance Minimum (LD | au)": "1.32 | 0.00339",
+        "V relative": 9.92,
+        "V infinity": "9.91",
+        "H (mag)": 28,
+        "Estimated Diameter": "6.7 m -   15 m"
+      },
+      {
+        "id": "(2018 PN22)",
+        "Close-Approach (CA) Date": "2021-Feb-05 11:23 ±    01:16",
+        "CA Distance Nominal (LD | au)": "12.72 | 0.03268",
+        "CA Distance Minimum (LD | au)": "12.69 | 0.03261",
+        "V relative": 2.51,
+        "V infinity": "2.47",
+        "H (mag)": 27.5,
+        "Estimated Diameter": "8.4 m -   19 m"
+      },
+      {
+        "id": "(2020 SO)",
+        "Close-Approach (CA) Date": "2021-Feb-03 13:55 ± 3_21:00",
+        "CA Distance Nominal (LD | au)": "0.57 | 0.00145",
+        "CA Distance Minimum (LD | au)": "0.45 | 0.00115",
+        "V relative": 1.82,
+        "V infinity": "NaN",
+        "H (mag)": 28.2,
+        "Estimated Diameter": "6.1 m -   14 m"
+      },
+      {
+        "id": "(2016 CL136)",
+        "Close-Approach (CA) Date": "2021-Feb-01 22:26 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "13.75 | 0.03534",
+        "CA Distance Minimum (LD | au)": "13.75 | 0.03533",
+        "V relative": 18.06,
+        "V infinity": "18.06",
+        "H (mag)": 21.4,
+        "Estimated Diameter": "140 m -  310 m"
+      },
+      {
+        "id": "468727 (2010 JE87)",
+        "Close-Approach (CA) Date": "2021-Jan-25 18:17 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "15.73 | 0.04042",
+        "CA Distance Minimum (LD | au)": "15.73 | 0.04042",
+        "V relative": 14.94,
+        "V infinity": "14.94",
+        "H (mag)": 20.7,
+        "Estimated Diameter": "190 m -  430 m"
+      },
+      {
+        "id": "(2018 BA3)",
+        "Close-Approach (CA) Date": "2021-Jan-25 10:28 ± 7_22:06",
+        "CA Distance Nominal (LD | au)": "1.47 | 0.00379",
+        "CA Distance Minimum (LD | au)": "0.71 | 0.00183",
+        "V relative": 8.08,
+        "V infinity": "7.99",
+        "H (mag)": 26.3,
+        "Estimated Diameter": "15 m -   33 m"
+      },
+      {
+        "id": "(2020 PP)",
+        "Close-Approach (CA) Date": "2021-Jan-23 11:08 ±    02:07",
+        "CA Distance Nominal (LD | au)": "18.13 | 0.04659",
+        "CA Distance Minimum (LD | au)": "17.97 | 0.04618",
+        "V relative": 8.36,
+        "V infinity": "8.36",
+        "H (mag)": 20.7,
+        "Estimated Diameter": "200 m -  440 m"
+      },
+      {
+        "id": "(2018 BX)",
+        "Close-Approach (CA) Date": "2021-Jan-22 21:20 ±    12:13",
+        "CA Distance Nominal (LD | au)": "8.88 | 0.02282",
+        "CA Distance Minimum (LD | au)": "7.14 | 0.01834",
+        "V relative": 6.13,
+        "V infinity": "6.12",
+        "H (mag)": 29.1,
+        "Estimated Diameter": "4.0 m -  9.0 m"
+      },
+      {
+        "id": "65717 (1993 BX3)",
+        "Close-Approach (CA) Date": "2021-Jan-17 08:49 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "18.42 | 0.04733",
+        "CA Distance Minimum (LD | au)": "18.42 | 0.04733",
+        "V relative": 3.6,
+        "V infinity": "3.59",
+        "H (mag)": 20.8,
+        "Estimated Diameter": "180 m -  410 m"
+      },
+      {
+        "id": "(2017 QW1)",
+        "Close-Approach (CA) Date": "2021-Jan-15 02:25 ±    08:00",
+        "CA Distance Nominal (LD | au)": "17.69 | 0.04545",
+        "CA Distance Minimum (LD | au)": "17.41 | 0.04474",
+        "V relative": 4,
+        "V infinity": "3.98",
+        "H (mag)": 26.2,
+        "Estimated Diameter": "15 m -   34 m"
+      },
+      {
+        "id": "(2013 YS2)",
+        "Close-Approach (CA) Date": "2021-Jan-11 11:47 ± 1_11:32",
+        "CA Distance Nominal (LD | au)": "18.10 | 0.04651",
+        "CA Distance Minimum (LD | au)": "18.06 | 0.04641",
+        "V relative": 3.67,
+        "V infinity": "3.65",
+        "H (mag)": 23.3,
+        "Estimated Diameter": "58 m -  130 m"
+      },
+      {
+        "id": "(2020 RO6)",
+        "Close-Approach (CA) Date": "2021-Jan-11 06:24 ± 1_09:55",
+        "CA Distance Nominal (LD | au)": "19.45 | 0.04997",
+        "CA Distance Minimum (LD | au)": "11.93 | 0.03064",
+        "V relative": 7.94,
+        "V infinity": "7.94",
+        "H (mag)": 23.2,
+        "Estimated Diameter": "61 m -  140 m"
+      },
+      {
+        "id": "(2015 NU13)",
+        "Close-Approach (CA) Date": "2021-Jan-09 09:16 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "14.70 | 0.03777",
+        "CA Distance Minimum (LD | au)": "14.70 | 0.03777",
+        "V relative": 15.08,
+        "V infinity": "15.07",
+        "H (mag)": 19.7,
+        "Estimated Diameter": "310 m -  680 m"
+      },
+      {
+        "id": "332446 (2008 AF4)",
+        "Close-Approach (CA) Date": "2021-Jan-06 21:52 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "9.56 | 0.02457",
+        "CA Distance Minimum (LD | au)": "9.56 | 0.02457",
+        "V relative": 10.99,
+        "V infinity": "10.98",
+        "H (mag)": 19.7,
+        "Estimated Diameter": "310 m -  680 m"
+      },
+      {
+        "id": "(2018 KP1)",
+        "Close-Approach (CA) Date": "2021-Jan-06 13:21 ±    00:01",
+        "CA Distance Nominal (LD | au)": "8.19 | 0.02104",
+        "CA Distance Minimum (LD | au)": "8.19 | 0.02104",
+        "V relative": 4.43,
+        "V infinity": "4.40",
+        "H (mag)": 25.1,
+        "Estimated Diameter": "25 m -   57 m"
+      },
+      {
+        "id": "(2016 CO247)",
+        "Close-Approach (CA) Date": "2021-Jan-06 04:09 ±    00:17",
+        "CA Distance Nominal (LD | au)": "19.26 | 0.04948",
+        "CA Distance Minimum (LD | au)": "19.19 | 0.04930",
+        "V relative": 16.73,
+        "V infinity": "16.73",
+        "H (mag)": 20.5,
+        "Estimated Diameter": "210 m -  470 m"
+      },
+      {
+        "id": "(2012 BT1)",
+        "Close-Approach (CA) Date": "2021-Jan-04 07:16 ± 6_18:02",
+        "CA Distance Nominal (LD | au)": "13.59 | 0.03492",
+        "CA Distance Minimum (LD | au)": "6.40 | 0.01644",
+        "V relative": 7.75,
+        "V infinity": "7.74",
+        "H (mag)": 27.4,
+        "Estimated Diameter": "8.8 m -   20 m"
+      },
+      {
+        "id": "(2019 QW2)",
+        "Close-Approach (CA) Date": "2021-Jan-03 21:22 ±    03:41",
+        "CA Distance Nominal (LD | au)": "8.76 | 0.02250",
+        "CA Distance Minimum (LD | au)": "8.74 | 0.02246",
+        "V relative": 4.89,
+        "V infinity": "4.87",
+        "H (mag)": 24.8,
+        "Estimated Diameter": "29 m -   65 m"
+      },
+      {
+        "id": "(2003 AF23)",
+        "Close-Approach (CA) Date": "2021-Jan-03 18:22 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "18.19 | 0.04674",
+        "CA Distance Minimum (LD | au)": "18.19 | 0.04674",
+        "V relative": 15.78,
+        "V infinity": "15.78",
+        "H (mag)": 20.9,
+        "Estimated Diameter": "180 m -  390 m"
+      },
+      {
+        "id": "(2019 YB4)",
+        "Close-Approach (CA) Date": "2021-Jan-02 09:25 ±    01:20",
+        "CA Distance Nominal (LD | au)": "16.79 | 0.04313",
+        "CA Distance Minimum (LD | au)": "16.16 | 0.04152",
+        "V relative": 7.15,
+        "V infinity": "7.14",
+        "H (mag)": 26.8,
+        "Estimated Diameter": "12 m -   26 m"
+      },
+      {
+        "id": "(2012 UK171)",
+        "Close-Approach (CA) Date": "2020-Dec-30 02:46 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "15.45 | 0.03971",
+        "CA Distance Minimum (LD | au)": "15.45 | 0.03971",
+        "V relative": 4.71,
+        "V infinity": "4.69",
+        "H (mag)": 24.4,
+        "Estimated Diameter": "35 m -   78 m"
+      },
+      {
+        "id": "(2016 AF2)",
+        "Close-Approach (CA) Date": "2020-Dec-27 07:44 ± 1_09:43",
+        "CA Distance Nominal (LD | au)": "7.29 | 0.01872",
+        "CA Distance Minimum (LD | au)": "3.83 | 0.00983",
+        "V relative": 5.35,
+        "V infinity": "5.32",
+        "H (mag)": 27.9,
+        "Estimated Diameter": "7.0 m -   16 m"
+      },
+      {
+        "id": "(2012 XE133)",
+        "Close-Approach (CA) Date": "2020-Dec-27 03:31 ± 3_07:46",
+        "CA Distance Nominal (LD | au)": "11.66 | 0.02996",
+        "CA Distance Minimum (LD | au)": "5.37 | 0.01379",
+        "V relative": 9.16,
+        "V infinity": "9.15",
+        "H (mag)": 23.4,
+        "Estimated Diameter": "56 m -  120 m"
+      },
+      {
+        "id": "501647 (2014 SD224)",
+        "Close-Approach (CA) Date": "2020-Dec-25 20:20 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "7.86 | 0.02019",
+        "CA Distance Minimum (LD | au)": "7.86 | 0.02019",
+        "V relative": 10.01,
+        "V infinity": "10.00",
+        "H (mag)": 22.3,
+        "Estimated Diameter": "92 m -  210 m"
+      },
+      {
+        "id": "(2011 CL50)",
+        "Close-Approach (CA) Date": "2020-Dec-24 12:41 ± 3_01:28",
+        "CA Distance Nominal (LD | au)": "3.07 | 0.00788",
+        "CA Distance Minimum (LD | au)": "1.18 | 0.00302",
+        "V relative": 3.36,
+        "V infinity": "3.25",
+        "H (mag)": 27.6,
+        "Estimated Diameter": "8.0 m -   18 m"
+      },
+      {
+        "id": "(2017 XQ60)",
+        "Close-Approach (CA) Date": "2020-Dec-21 08:18 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "10.79 | 0.02773",
+        "CA Distance Minimum (LD | au)": "10.79 | 0.02773",
+        "V relative": 15.61,
+        "V infinity": "15.60",
+        "H (mag)": 24.4,
+        "Estimated Diameter": "35 m -   78 m"
+      },
+      {
+        "id": "(2019 XQ1)",
+        "Close-Approach (CA) Date": "2020-Dec-13 08:27 ±    01:19",
+        "CA Distance Nominal (LD | au)": "18.30 | 0.04703",
+        "CA Distance Minimum (LD | au)": "16.31 | 0.04190",
+        "V relative": 8.61,
+        "V infinity": "8.60",
+        "H (mag)": 25.4,
+        "Estimated Diameter": "22 m -   49 m"
+      },
+      {
+        "id": "(2018 PK21)",
+        "Close-Approach (CA) Date": "2020-Dec-08 02:25 ±    00:01",
+        "CA Distance Nominal (LD | au)": "12.18 | 0.03129",
+        "CA Distance Minimum (LD | au)": "12.18 | 0.03129",
+        "V relative": 3.13,
+        "V infinity": "3.10",
+        "H (mag)": 25.9,
+        "Estimated Diameter": "18 m -   39 m"
+      },
+      {
+        "id": "(2019 XH2)",
+        "Close-Approach (CA) Date": "2020-Dec-02 20:54 ±    00:52",
+        "CA Distance Nominal (LD | au)": "16.06 | 0.04126",
+        "CA Distance Minimum (LD | au)": "15.68 | 0.04030",
+        "V relative": 6.36,
+        "V infinity": "6.35",
+        "H (mag)": 28.9,
+        "Estimated Diameter": "4.4 m -  9.9 m"
+      },
+      {
+        "id": "(2020 SO)",
+        "Close-Approach (CA) Date": "2020-Dec-01 07:29 ±    08:08",
+        "CA Distance Nominal (LD | au)": "0.13 | 0.00034",
+        "CA Distance Minimum (LD | au)": "0.12 | 0.00032",
+        "V relative": 3.88,
+        "V infinity": "NaN",
+        "H (mag)": 28.2,
+        "Estimated Diameter": "6.1 m -   14 m"
+      },
+      {
+        "id": "153201 (2000 WO107)",
+        "Close-Approach (CA) Date": "2020-Nov-29 05:08 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "11.19 | 0.02876",
+        "CA Distance Minimum (LD | au)": "11.19 | 0.02876",
+        "V relative": 25.07,
+        "V infinity": "25.07",
+        "H (mag)": 19.3,
+        "Estimated Diameter": "370 m -  820 m"
+      },
+      {
+        "id": "(2020 KZ2)",
+        "Close-Approach (CA) Date": "2020-Nov-28 04:43 ±    00:32",
+        "CA Distance Nominal (LD | au)": "5.67 | 0.01458",
+        "CA Distance Minimum (LD | au)": "5.58 | 0.01433",
+        "V relative": 3.91,
+        "V infinity": "3.86",
+        "H (mag)": 27.7,
+        "Estimated Diameter": "7.7 m -   17 m"
+      },
+      {
+        "id": "(2018 RQ4)",
+        "Close-Approach (CA) Date": "2020-Nov-26 04:41 ± 8_01:42",
+        "CA Distance Nominal (LD | au)": "8.12 | 0.02086",
+        "CA Distance Minimum (LD | au)": "1.11 | 0.00285",
+        "V relative": 7.44,
+        "V infinity": "7.42",
+        "H (mag)": 26.9,
+        "Estimated Diameter": "11 m -   25 m"
+      },
+      {
+        "id": "(2017 WJ16)",
+        "Close-Approach (CA) Date": "2020-Nov-23 12:53 ± 1_18:20",
+        "CA Distance Nominal (LD | au)": "4.95 | 0.01271",
+        "CA Distance Minimum (LD | au)": "4.06 | 0.01043",
+        "V relative": 4.75,
+        "V infinity": "4.71",
+        "H (mag)": 24.3,
+        "Estimated Diameter": "37 m -   82 m"
+      },
+      {
+        "id": "(2019 VL5)",
+        "Close-Approach (CA) Date": "2020-Nov-15 10:26 ±    04:03",
+        "CA Distance Nominal (LD | au)": "8.46 | 0.02173",
+        "CA Distance Minimum (LD | au)": "8.46 | 0.02173",
+        "V relative": 8.18,
+        "V infinity": "8.16",
+        "H (mag)": 25.9,
+        "Estimated Diameter": "18 m -   39 m"
+      },
+      {
+        "id": "(2018 VS4)",
+        "Close-Approach (CA) Date": "2020-Nov-09 11:00 ± 5_07:22",
+        "CA Distance Nominal (LD | au)": "14.85 | 0.03815",
+        "CA Distance Minimum (LD | au)": "13.39 | 0.03442",
+        "V relative": 10.07,
+        "V infinity": "10.06",
+        "H (mag)": 25.8,
+        "Estimated Diameter": "18 m -   41 m"
+      },
+      {
+        "id": "(2019 XS)",
+        "Close-Approach (CA) Date": "2020-Nov-07 21:13 ±    03:14",
+        "CA Distance Nominal (LD | au)": "15.33 | 0.03940",
+        "CA Distance Minimum (LD | au)": "13.57 | 0.03486",
+        "V relative": 9.45,
+        "V infinity": "9.44",
+        "H (mag)": 24.2,
+        "Estimated Diameter": "38 m -   86 m"
+      },
+      {
+        "id": "(2010 JL88)",
+        "Close-Approach (CA) Date": "2020-Nov-05 22:04 ± 5_18:57",
+        "CA Distance Nominal (LD | au)": "10.42 | 0.02678",
+        "CA Distance Minimum (LD | au)": "0.46 | 0.00118",
+        "V relative": 15.66,
+        "V infinity": "15.66",
+        "H (mag)": 26.8,
+        "Estimated Diameter": "12 m -   26 m"
+      },
+      {
+        "id": "(2020 HF4)",
+        "Close-Approach (CA) Date": "2020-Nov-03 22:53 ±    00:04",
+        "CA Distance Nominal (LD | au)": "16.11 | 0.04140",
+        "CA Distance Minimum (LD | au)": "15.99 | 0.04110",
+        "V relative": 2.89,
+        "V infinity": "2.87",
+        "H (mag)": 27.6,
+        "Estimated Diameter": "8.2 m -   18 m"
+      },
+      {
+        "id": "(2018 VP1)",
+        "Close-Approach (CA) Date": "2020-Nov-02 11:33 ± 3_07:11",
+        "CA Distance Nominal (LD | au)": "1.09 | 0.00280",
+        "CA Distance Minimum (LD | au)": "0.02 | 3.91e-5",
+        "V relative": 9.71,
+        "V infinity": "9.61",
+        "H (mag)": 30.9,
+        "Estimated Diameter": "1.8 m -  3.9 m"
+      },
+      {
+        "id": "(2020 OK5)",
+        "Close-Approach (CA) Date": "2020-Oct-29 08:54 ±    00:03",
+        "CA Distance Nominal (LD | au)": "6.40 | 0.01644",
+        "CA Distance Minimum (LD | au)": "6.39 | 0.01643",
+        "V relative": 1.29,
+        "V infinity": "1.15",
+        "H (mag)": 25.6,
+        "Estimated Diameter": "21 m -   46 m"
+      },
+      {
+        "id": "(2020 QD5)",
+        "Close-Approach (CA) Date": "2020-Oct-26 02:56 ±    00:45",
+        "CA Distance Nominal (LD | au)": "10.03 | 0.02576",
+        "CA Distance Minimum (LD | au)": "10.01 | 0.02572",
+        "V relative": 8.57,
+        "V infinity": "8.56",
+        "H (mag)": 23.2,
+        "Estimated Diameter": "60 m -  130 m"
+      },
+      {
+        "id": "(2008 GM2)",
+        "Close-Approach (CA) Date": "2020-Oct-25 23:49 ±    07:38",
+        "CA Distance Nominal (LD | au)": "17.59 | 0.04520",
+        "CA Distance Minimum (LD | au)": "14.09 | 0.03621",
+        "V relative": 3.59,
+        "V infinity": "3.57",
+        "H (mag)": 28.3,
+        "Estimated Diameter": "5.8 m -   13 m"
+      },
+      {
+        "id": "(2017 TK6)",
+        "Close-Approach (CA) Date": "2020-Oct-24 10:35 ±    03:58",
+        "CA Distance Nominal (LD | au)": "17.20 | 0.04419",
+        "CA Distance Minimum (LD | au)": "16.52 | 0.04246",
+        "V relative": 12.45,
+        "V infinity": "12.44",
+        "H (mag)": 24.7,
+        "Estimated Diameter": "31 m -   68 m"
+      },
+      {
+        "id": "(2018 VG)",
+        "Close-Approach (CA) Date": "2020-Oct-21 15:41 ±    19:40",
+        "CA Distance Nominal (LD | au)": "15.06 | 0.03870",
+        "CA Distance Minimum (LD | au)": "14.59 | 0.03749",
+        "V relative": 6.73,
+        "V infinity": "6.72",
+        "H (mag)": 27.4,
+        "Estimated Diameter": "8.8 m -   20 m"
+      },
+      {
+        "id": "(2017 UH5)",
+        "Close-Approach (CA) Date": "2020-Oct-20 03:16 ± 6_12:30",
+        "CA Distance Nominal (LD | au)": "8.89 | 0.02283",
+        "CA Distance Minimum (LD | au)": "8.66 | 0.02226",
+        "V relative": 5.93,
+        "V infinity": "5.91",
+        "H (mag)": 26.5,
+        "Estimated Diameter": "13 m -   30 m"
+      },
+      {
+        "id": "(2020 RM6)",
+        "Close-Approach (CA) Date": "2020-Oct-15 05:26 ±    05:52",
+        "CA Distance Nominal (LD | au)": "13.03 | 0.03347",
+        "CA Distance Minimum (LD | au)": "12.48 | 0.03207",
+        "V relative": 7.75,
+        "V infinity": "7.74",
+        "H (mag)": 24.9,
+        "Estimated Diameter": "28 m -   63 m"
+      },
+      {
+        "id": "(2018 GD2)",
+        "Close-Approach (CA) Date": "2020-Oct-13 13:45 ±    03:59",
+        "CA Distance Nominal (LD | au)": "16.29 | 0.04187",
+        "CA Distance Minimum (LD | au)": "14.44 | 0.03710",
+        "V relative": 6.7,
+        "V infinity": "6.69",
+        "H (mag)": 29.4,
+        "Estimated Diameter": "3.5 m -  7.8 m"
+      },
+      {
+        "id": "(2020 RO1)",
+        "Close-Approach (CA) Date": "2020-Oct-09 16:14 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "17.37 | 0.04464",
+        "CA Distance Minimum (LD | au)": "17.36 | 0.04461",
+        "V relative": 3.21,
+        "V infinity": "3.19",
+        "H (mag)": 25.4,
+        "Estimated Diameter": "22 m -   49 m"
+      },
+      {
+        "id": "(2019 SB6)",
+        "Close-Approach (CA) Date": "2020-Oct-07 23:23 ±    03:41",
+        "CA Distance Nominal (LD | au)": "11.85 | 0.03044",
+        "CA Distance Minimum (LD | au)": "8.85 | 0.02275",
+        "V relative": 7.58,
+        "V infinity": "7.57",
+        "H (mag)": 26.8,
+        "Estimated Diameter": "12 m -   26 m"
+      },
+      {
+        "id": "(2020 RK2)",
+        "Close-Approach (CA) Date": "2020-Oct-07 12:52 ±    00:35",
+        "CA Distance Nominal (LD | au)": "10.03 | 0.02578",
+        "CA Distance Minimum (LD | au)": "9.89 | 0.02542",
+        "V relative": 6.74,
+        "V infinity": "6.72",
+        "H (mag)": 24.3,
+        "Estimated Diameter": "37 m -   83 m"
+      },
+      {
+        "id": "(2020 RR2)",
+        "Close-Approach (CA) Date": "2020-Oct-06 14:55 ±    00:07",
+        "CA Distance Nominal (LD | au)": "16.24 | 0.04174",
+        "CA Distance Minimum (LD | au)": "16.12 | 0.04142",
+        "V relative": 4.08,
+        "V infinity": "4.07",
+        "H (mag)": 25.4,
+        "Estimated Diameter": "22 m -   49 m"
+      },
+      {
+        "id": "(2020 RV2)",
+        "Close-Approach (CA) Date": "2020-Oct-05 22:56 ±    00:03",
+        "CA Distance Nominal (LD | au)": "14.80 | 0.03803",
+        "CA Distance Minimum (LD | au)": "14.74 | 0.03787",
+        "V relative": 4.16,
+        "V infinity": "4.14",
+        "H (mag)": 25.7,
+        "Estimated Diameter": "19 m -   42 m"
+      },
+      {
+        "id": "(2010 UC)",
+        "Close-Approach (CA) Date": "2020-Oct-04 08:22 ± 1_04:00",
+        "CA Distance Nominal (LD | au)": "14.50 | 0.03726",
+        "CA Distance Minimum (LD | au)": "12.11 | 0.03112",
+        "V relative": 3.21,
+        "V infinity": "3.19",
+        "H (mag)": 27.4,
+        "Estimated Diameter": "8.8 m -   20 m"
+      },
+      {
+        "id": "(2020 RZ3)",
+        "Close-Approach (CA) Date": "2020-Oct-02 08:31 ±    00:19",
+        "CA Distance Nominal (LD | au)": "15.60 | 0.04009",
+        "CA Distance Minimum (LD | au)": "15.33 | 0.03940",
+        "V relative": 13.28,
+        "V infinity": "13.27",
+        "H (mag)": 25.1,
+        "Estimated Diameter": "26 m -   58 m"
+      },
+      {
+        "id": "(2001 GP2)",
+        "Close-Approach (CA) Date": "2020-Oct-01 14:59 ± 6_17:18",
+        "CA Distance Nominal (LD | au)": "6.09 | 0.01565",
+        "CA Distance Minimum (LD | au)": "0.35 | 0.00091",
+        "V relative": 2.21,
+        "V infinity": "2.14",
+        "H (mag)": 26.9,
+        "Estimated Diameter": "11 m -   25 m"
+      },
+      {
+        "id": "(2020 RJ3)",
+        "Close-Approach (CA) Date": "2020-Oct-01 09:31 ±    00:11",
+        "CA Distance Nominal (LD | au)": "15.25 | 0.03919",
+        "CA Distance Minimum (LD | au)": "15.11 | 0.03882",
+        "V relative": 15.5,
+        "V infinity": "15.49",
+        "H (mag)": 23.6,
+        "Estimated Diameter": "50 m -  110 m"
+      },
+      {
+        "id": "(2020 SQ)",
+        "Close-Approach (CA) Date": "2020-Sep-30 16:09 ±    00:06",
+        "CA Distance Nominal (LD | au)": "5.70 | 0.01464",
+        "CA Distance Minimum (LD | au)": "5.65 | 0.01452",
+        "V relative": 5.94,
+        "V infinity": "5.91",
+        "H (mag)": 27.5,
+        "Estimated Diameter": "8.5 m -   19 m"
+      },
+      {
+        "id": "(2020 PM7)",
+        "Close-Approach (CA) Date": "2020-Sep-29 14:16 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "7.47 | 0.01920",
+        "CA Distance Minimum (LD | au)": "7.47 | 0.01920",
+        "V relative": 8.33,
+        "V infinity": "8.32",
+        "H (mag)": 22.3,
+        "Estimated Diameter": "91 m -  200 m"
+      },
+      {
+        "id": "(2020 RF5)",
+        "Close-Approach (CA) Date": "2020-Sep-27 15:15 ±    00:02",
+        "CA Distance Nominal (LD | au)": "14.04 | 0.03607",
+        "CA Distance Minimum (LD | au)": "13.97 | 0.03590",
+        "V relative": 3.89,
+        "V infinity": "3.87",
+        "H (mag)": 24.1,
+        "Estimated Diameter": "40 m -   90 m"
+      },
+      {
+        "id": "(2020 RF4)",
+        "Close-Approach (CA) Date": "2020-Sep-26 20:32 ±    00:06",
+        "CA Distance Nominal (LD | au)": "11.67 | 0.02998",
+        "CA Distance Minimum (LD | au)": "11.51 | 0.02957",
+        "V relative": 13.81,
+        "V infinity": "13.80",
+        "H (mag)": 24.6,
+        "Estimated Diameter": "32 m -   72 m"
+      },
+      {
+        "id": "(2020 SM)",
+        "Close-Approach (CA) Date": "2020-Sep-25 20:34 ±    00:12",
+        "CA Distance Nominal (LD | au)": "15.56 | 0.03997",
+        "CA Distance Minimum (LD | au)": "15.30 | 0.03932",
+        "V relative": 18.43,
+        "V infinity": "18.43",
+        "H (mag)": 23.9,
+        "Estimated Diameter": "45 m -  100 m"
+      },
+      {
+        "id": "(2020 RO)",
+        "Close-Approach (CA) Date": "2020-Sep-25 00:10 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "15.22 | 0.03911",
+        "CA Distance Minimum (LD | au)": "15.20 | 0.03905",
+        "V relative": 11.84,
+        "V infinity": "11.84",
+        "H (mag)": 23.3,
+        "Estimated Diameter": "59 m -  130 m"
+      },
+      {
+        "id": "(2020 SW)",
+        "Close-Approach (CA) Date": "2020-Sep-24 11:18 ±    06:18",
+        "CA Distance Nominal (LD | au)": "0.07 | 0.00019",
+        "CA Distance Minimum (LD | au)": "0.07 | 0.00018",
+        "V relative": 7.75,
+        "V infinity": "5.62",
+        "H (mag)": 28.9,
+        "Estimated Diameter": "4.3 m -  9.7 m"
+      },
+      {
+        "id": "(2020 SN)",
+        "Close-Approach (CA) Date": "2020-Sep-24 01:18 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "8.86 | 0.02276",
+        "CA Distance Minimum (LD | au)": "8.81 | 0.02263",
+        "V relative": 6.88,
+        "V infinity": "6.86",
+        "H (mag)": 24.7,
+        "Estimated Diameter": "31 m -   68 m"
+      },
+      {
+        "id": "(2020 RA2)",
+        "Close-Approach (CA) Date": "2020-Sep-23 17:32 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "18.37 | 0.04720",
+        "CA Distance Minimum (LD | au)": "18.35 | 0.04715",
+        "V relative": 5.38,
+        "V infinity": "5.36",
+        "H (mag)": 26,
+        "Estimated Diameter": "17 m -   37 m"
+      },
+      {
+        "id": "(2020 RE8)",
+        "Close-Approach (CA) Date": "2020-Sep-23 02:24 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "18.06 | 0.04640",
+        "CA Distance Minimum (LD | au)": "17.75 | 0.04560",
+        "V relative": 10.65,
+        "V infinity": "10.65",
+        "H (mag)": 25.4,
+        "Estimated Diameter": "22 m -   50 m"
+      },
+      {
+        "id": "(2020 RU7)",
+        "Close-Approach (CA) Date": "2020-Sep-22 15:46 ±    00:02",
+        "CA Distance Nominal (LD | au)": "15.29 | 0.03928",
+        "CA Distance Minimum (LD | au)": "15.22 | 0.03911",
+        "V relative": 6.26,
+        "V infinity": "6.25",
+        "H (mag)": 25.3,
+        "Estimated Diameter": "23 m -   51 m"
+      },
+      {
+        "id": "(2020 RB6)",
+        "Close-Approach (CA) Date": "2020-Sep-22 12:44 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "6.70 | 0.01722",
+        "CA Distance Minimum (LD | au)": "6.69 | 0.01718",
+        "V relative": 19.83,
+        "V infinity": "19.82",
+        "H (mag)": 25.5,
+        "Estimated Diameter": "22 m -   48 m"
+      },
+      {
+        "id": "(2020 RD5)",
+        "Close-Approach (CA) Date": "2020-Sep-22 03:17 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "10.55 | 0.02712",
+        "CA Distance Minimum (LD | au)": "10.47 | 0.02690",
+        "V relative": 17.18,
+        "V infinity": "17.17",
+        "H (mag)": 24.2,
+        "Estimated Diameter": "39 m -   87 m"
+      },
+      {
+        "id": "(2020 RQ6)",
+        "Close-Approach (CA) Date": "2020-Sep-21 10:01 ±    00:05",
+        "CA Distance Nominal (LD | au)": "3.36 | 0.00865",
+        "CA Distance Minimum (LD | au)": "3.34 | 0.00859",
+        "V relative": 6.54,
+        "V infinity": "6.49",
+        "H (mag)": 27.6,
+        "Estimated Diameter": "8.0 m -   18 m"
+      },
+      {
+        "id": "(2020 RY7)",
+        "Close-Approach (CA) Date": "2020-Sep-20 10:38 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "2.61 | 0.00670",
+        "CA Distance Minimum (LD | au)": "2.60 | 0.00668",
+        "V relative": 20.55,
+        "V infinity": "20.53",
+        "H (mag)": 26.6,
+        "Estimated Diameter": "13 m -   28 m"
+      },
+      {
+        "id": "(2020 RP6)",
+        "Close-Approach (CA) Date": "2020-Sep-20 07:19 ±    00:01",
+        "CA Distance Nominal (LD | au)": "19.03 | 0.04889",
+        "CA Distance Minimum (LD | au)": "18.93 | 0.04864",
+        "V relative": 7.95,
+        "V infinity": "7.94",
+        "H (mag)": 24.9,
+        "Estimated Diameter": "28 m -   63 m"
+      },
+      {
+        "id": "(2017 SL16)",
+        "Close-Approach (CA) Date": "2020-Sep-20 06:56 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "8.84 | 0.02272",
+        "CA Distance Minimum (LD | au)": "8.84 | 0.02272",
+        "V relative": 6.4,
+        "V infinity": "6.38",
+        "H (mag)": 25.8,
+        "Estimated Diameter": "18 m -   41 m"
+      },
+      {
+        "id": "(2020 RQ3)",
+        "Close-Approach (CA) Date": "2020-Sep-19 18:48 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "6.17 | 0.01586",
+        "CA Distance Minimum (LD | au)": "6.14 | 0.01579",
+        "V relative": 25.42,
+        "V infinity": "25.42",
+        "H (mag)": 25.2,
+        "Estimated Diameter": "24 m -   54 m"
+      },
+      {
+        "id": "(2020 RH6)",
+        "Close-Approach (CA) Date": "2020-Sep-19 08:09 ± < 00:01",
+        "CA Distance Nominal (LD | au)": "12.35 | 0.03174",
+        "CA Distance Minimum (LD | au)": "12.30 | 0.03161",
+        "V relative": 8.32,
+        "V infinity": "8.31",
+        "H (mag)": 25,
+        "Estimated Diameter": "27 m -   60 m"
+      }
+     ],
+    "links": [
+      {
+        "source": "(2020 KR2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.91 | 0.03574"
+      },
+      {
+        "source": "(2010 RJ53)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "7.84 | 0.02013"
+      },
+      {
+        "source": "(2015 SW6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.86 | 0.04075"
+      },
+      {
+        "source": "(2017 RK15)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "6.44 | 0.01654"
+      },
+      {
+        "source": "(2011 UC292)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.95 | 0.02300"
+      },
+      {
+        "source": "(2020 BC16)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "14.56 | 0.03742"
+      },
+      {
+        "source": "(2019 UD4)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "14.15 | 0.03636"
+      },
+      {
+        "source": "(2016 AJ193)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.91 | 0.02291"
+      },
+      {
+        "source": "(2016 BQ)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "4.33 | 0.01112"
+      },
+      {
+        "source": "(2012 BA35)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "6.83 | 0.01756"
+      },
+      {
+        "source": "(2020 PP1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "12.89 | 0.03313"
+      },
+      {
+        "source": "(2020 PN1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "9.59 | 0.02463"
+      },
+      {
+        "source": "(2019 YM6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "17.67 | 0.04540"
+      },
+      {
+        "source": "(2020 BW12)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "16.23 | 0.04171"
+      },
+      {
+        "source": "(2008 GO20)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "6.35 | 0.01633"
+      },
+      {
+        "source": "(2014 BP43)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "4.26 | 0.01094"
+      },
+      {
+        "source": "(2019 NB7)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "1.67 | 0.00429"
+      },
+      {
+        "source": "(2019 AT6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "3.65 | 0.00938"
+      },
+      {
+        "source": "(2020 AD1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "2.63 | 0.00676"
+      },
+      {
+        "source": "441987 (2010 NY65)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.54 | 0.03992"
+      },
+      {
+        "source": "(2018 LB)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.91 | 0.00234"
+      },
+      {
+        "source": "(2013 VO11)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "3.09 | 0.00795"
+      },
+      {
+        "source": "478784 (2012 UV136)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.74 | 0.04045"
+      },
+      {
+        "source": "(2015 KJ19)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.01 | 0.03856"
+      },
+      {
+        "source": "(2018 JP)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "5.92 | 0.01521"
+      },
+      {
+        "source": "(2019 VT3)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "11.51 | 0.02958"
+      },
+      {
+        "source": "(2019 HF4)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "1.22 | 0.00314"
+      },
+      {
+        "source": "(2015 HA177)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.83 | 0.00214"
+      },
+      {
+        "source": "(2016 QE45)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.20 | 0.03391"
+      },
+      {
+        "source": "(2019 PS1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "14.03 | 0.03606"
+      },
+      {
+        "source": "(2020 HO5)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "16.40 | 0.04213"
+      },
+      {
+        "source": "(2019 HQ)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.52 | 0.03475"
+      },
+      {
+        "source": "(2020 HE5)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.34 | 0.02143"
+      },
+      {
+        "source": "(2017 HG4)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "5.99 | 0.01538"
+      },
+      {
+        "source": "(2014 FO38)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "16.70 | 0.04291"
+      },
+      {
+        "source": "(2020 GE1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "12.10 | 0.03108"
+      },
+      {
+        "source": "(2015 MB54)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.53 | 0.03476"
+      },
+      {
+        "source": "(2019 GM1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.02 | 0.03859"
+      },
+      {
+        "source": "(2020 GE)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "12.61 | 0.03240"
+      },
+      {
+        "source": "231937 (2001 FO32)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "5.24 | 0.01347"
+      },
+      {
+        "source": "(2020 FM)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.61 | 0.03496"
+      },
+      {
+        "source": "535844 (2015 BY310)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "14.12 | 0.03629"
+      },
+      {
+        "source": "(2020 SP)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "18.04 | 0.04635"
+      },
+      {
+        "source": "(1999 RM45)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "7.62 | 0.01958"
+      },
+      {
+        "source": "(2016 DV1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.42 | 0.00107"
+      },
+      {
+        "source": "(2011 EH17)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "2.87 | 0.00738"
+      },
+      {
+        "source": "(2011 DW)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.20 | 0.03391"
+      },
+      {
+        "source": "(2015 EQ)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.89 | 0.04083"
+      },
+      {
+        "source": "(2020 BV9)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.93 | 0.03579"
+      },
+      {
+        "source": "(2020 CX1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "3.74 | 0.00960"
+      },
+      {
+        "source": "(2019 YP5)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.11 | 0.02083"
+      },
+      {
+        "source": "(2008 DB)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.07 | 0.03359"
+      },
+      {
+        "source": "(2018 RB)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "16.13 | 0.04145"
+      },
+      {
+        "source": "(2018 CH2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "1.32 | 0.00339"
+      },
+      {
+        "source": "(2018 PN22)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "12.69 | 0.03261"
+      },
+      {
+        "source": "(2020 SO)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.45 | 0.00115"
+      },
+      {
+        "source": "(2016 CL136)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.75 | 0.03533"
+      },
+      {
+        "source": "468727 (2010 JE87)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.73 | 0.04042"
+      },
+      {
+        "source": "(2018 BA3)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.71 | 0.00183"
+      },
+      {
+        "source": "(2020 PP)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "17.97 | 0.04618"
+      },
+      {
+        "source": "(2018 BX)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "7.14 | 0.01834"
+      },
+      {
+        "source": "65717 (1993 BX3)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "18.42 | 0.04733"
+      },
+      {
+        "source": "(2017 QW1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "17.41 | 0.04474"
+      },
+      {
+        "source": "(2013 YS2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "18.06 | 0.04641"
+      },
+      {
+        "source": "(2020 RO6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "11.93 | 0.03064"
+      },
+      {
+        "source": "(2015 NU13)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "14.70 | 0.03777"
+      },
+      {
+        "source": "332446 (2008 AF4)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "9.56 | 0.02457"
+      },
+      {
+        "source": "(2018 KP1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.19 | 0.02104"
+      },
+      {
+        "source": "(2016 CO247)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "19.19 | 0.04930"
+      },
+      {
+        "source": "(2012 BT1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "6.40 | 0.01644"
+      },
+      {
+        "source": "(2019 QW2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.74 | 0.02246"
+      },
+      {
+        "source": "(2003 AF23)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "18.19 | 0.04674"
+      },
+      {
+        "source": "(2019 YB4)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "16.16 | 0.04152"
+      },
+      {
+        "source": "(2012 UK171)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.45 | 0.03971"
+      },
+      {
+        "source": "(2016 AF2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "3.83 | 0.00983"
+      },
+      {
+        "source": "(2012 XE133)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "5.37 | 0.01379"
+      },
+      {
+        "source": "501647 (2014 SD224)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "7.86 | 0.02019"
+      },
+      {
+        "source": "(2011 CL50)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "1.18 | 0.00302"
+      },
+      {
+        "source": "(2017 XQ60)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "10.79 | 0.02773"
+      },
+      {
+        "source": "(2019 XQ1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "16.31 | 0.04190"
+      },
+      {
+        "source": "(2018 PK21)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "12.18 | 0.03129"
+      },
+      {
+        "source": "(2019 XH2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.68 | 0.04030"
+      },
+      {
+        "source": "(2020 SO)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.12 | 0.00032"
+      },
+      {
+        "source": "153201 (2000 WO107)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "11.19 | 0.02876"
+      },
+      {
+        "source": "(2020 KZ2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "5.58 | 0.01433"
+      },
+      {
+        "source": "(2018 RQ4)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "1.11 | 0.00285"
+      },
+      {
+        "source": "(2017 WJ16)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "4.06 | 0.01043"
+      },
+      {
+        "source": "(2019 VL5)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.46 | 0.02173"
+      },
+      {
+        "source": "(2018 VS4)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.39 | 0.03442"
+      },
+      {
+        "source": "(2019 XS)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.57 | 0.03486"
+      },
+      {
+        "source": "(2010 JL88)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.46 | 0.00118"
+      },
+      {
+        "source": "(2020 HF4)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.99 | 0.04110"
+      },
+      {
+        "source": "(2018 VP1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.02 | 3.91e-5"
+      },
+      {
+        "source": "(2020 OK5)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "6.39 | 0.01643"
+      },
+      {
+        "source": "(2020 QD5)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "10.01 | 0.02572"
+      },
+      {
+        "source": "(2008 GM2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "14.09 | 0.03621"
+      },
+      {
+        "source": "(2017 TK6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "16.52 | 0.04246"
+      },
+      {
+        "source": "(2018 VG)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "14.59 | 0.03749"
+      },
+      {
+        "source": "(2017 UH5)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.66 | 0.02226"
+      },
+      {
+        "source": "(2020 RM6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "12.48 | 0.03207"
+      },
+      {
+        "source": "(2018 GD2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "14.44 | 0.03710"
+      },
+      {
+        "source": "(2020 RO1)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "17.36 | 0.04461"
+      },
+      {
+        "source": "(2019 SB6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.85 | 0.02275"
+      },
+      {
+        "source": "(2020 RK2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "9.89 | 0.02542"
+      },
+      {
+        "source": "(2020 RR2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "16.12 | 0.04142"
+      },
+      {
+        "source": "(2020 RV2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "14.74 | 0.03787"
+      },
+      {
+        "source": "(2010 UC)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "12.11 | 0.03112"
+      },
+      {
+        "source": "(2020 RZ3)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.33 | 0.03940"
+      },
+      {
+        "source": "(2001 GP2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.35 | 0.00091"
+      },
+      {
+        "source": "(2020 RJ3)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.11 | 0.03882"
+      },
+      {
+        "source": "(2020 SQ)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "5.65 | 0.01452"
+      },
+      {
+        "source": "(2020 PM7)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "7.47 | 0.01920"
+      },
+      {
+        "source": "(2020 RF5)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "13.97 | 0.03590"
+      },
+      {
+        "source": "(2020 RF4)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "11.51 | 0.02957"
+      },
+      {
+        "source": "(2020 SM)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.30 | 0.03932"
+      },
+      {
+        "source": "(2020 RO)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.20 | 0.03905"
+      },
+      {
+        "source": "(2020 SW)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "0.07 | 0.00018"
+      },
+      {
+        "source": "(2020 SN)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.81 | 0.02263"
+      },
+      {
+        "source": "(2020 RA2)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "18.35 | 0.04715"
+      },
+      {
+        "source": "(2020 RE8)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "17.75 | 0.04560"
+      },
+      {
+        "source": "(2020 RU7)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "15.22 | 0.03911"
+      },
+      {
+        "source": "(2020 RB6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "6.69 | 0.01718"
+      },
+      {
+        "source": "(2020 RD5)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "10.47 | 0.02690"
+      },
+      {
+        "source": "(2020 RQ6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "3.34 | 0.00859"
+      },
+      {
+        "source": "(2020 RY7)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "2.60 | 0.00668"
+      },
+      {
+        "source": "(2020 RP6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "18.93 | 0.04864"
+      },
+      {
+        "source": "(2017 SL16)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "8.84 | 0.02272"
+      },
+      {
+        "source": "(2020 RQ3)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "6.14 | 0.01579"
+      },
+      {
+        "source": "(2020 RH6)",
+        "target": "Earth",
+        "CA Distance Minimum (LD | au)": "12.30 | 0.03161"
+      }
+     ]
+  }
